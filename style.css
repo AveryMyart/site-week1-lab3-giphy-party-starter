@@ -14,3 +14,8 @@ h1 {
   text-align: center;
   margin: 20px 0;
 }
+
+.gif-container {
+  content: flex;
+  justify-content: center;
+}
